@@ -1,0 +1,15 @@
+download file
+open it
+copy all text
+
+open up betaflight 
+go to cli 
+put your cursor into the text box 
+paste it in
+type save  - if it doen't reboot
+
+Drone should work!
+
+Make sure all your modes are corret. 
+
+You may need to flash the firmware to the latest and then past this new txt into the Cli
